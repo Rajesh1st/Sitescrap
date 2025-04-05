@@ -1,0 +1,11 @@
+playwright==1.51.0
+pyee==12.1.1
+nest_asyncio==1.6.0
+cloudscraper==1.2.71
+requests==2.31.0
+beautifulsoup4==4.12.3
+flask==3.0.2
+gunicorn==21.2.0
+pyrogram==2.0.106
+tgcrypto==1.2.5
+python-dotenv==1.0.1
